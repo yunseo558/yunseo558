@@ -117,4 +117,4 @@ AI의 응답 자체보다 판단 결과가 실제 서비스의 다음 행동으�
 
 ## Contact
 
-[Email](mailto:yunseo0154@naver.com)
+📧 [Email](mailto:yunseo0154@naver.com)
