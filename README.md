@@ -1,20 +1,3 @@
-# 👋 Yunseo Kang
-
-### Full-stack AI Product · AX Developer
-
-> **LLM과 자동화를 실제 서비스와 업무 흐름에 연결하는 개발자입니다.**  
-> Building AI-powered products that connect **decision → validation → execution**.
-
-AI 모델 자체를 만드는 것보다,  
-**사용자의 입력 → 구조화 → AI/규칙 기반 판단 → 검증 → 실제 실행**으로 이어지는  
-End-to-End Product Flow를 설계하고 구현하는 데 관심이 있습니다.
-
-업무 자동화, 금융, AI Agent, 접근성 등 다양한 도메인에서  
-AI 결과를 그대로 실행하지 않고 **Confidence, Policy, Human-in-the-loop**를 통해  
-안전하게 실제 행동으로 연결하는 제품을 만들어 왔습니다.
-
----
-
 ## 🚀 Featured Projects
 
 ### 📬 DAP — Department Automation Pipeline
