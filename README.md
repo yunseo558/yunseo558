@@ -1,6 +1,6 @@
-## 🚀 Featured Projects
+## Featured Projects
 
-### 📬 DAP — Department Automation Pipeline
+### DAP — Department Automation Pipeline
 
 > **Gmail → AI Extraction → Human Review → Google Calendar**
 
@@ -21,7 +21,7 @@
 
 ---
 
-### 🔐 CofferGate — Policy-Gated AI Agent
+### CofferGate — Policy-Gated AI Agent
 
 > **LLM Proposal → Policy Gate → KMS Signing → On-chain Execution**
 
@@ -43,7 +43,7 @@ AI Agent가 자산 운용처럼 되돌리기 어려운 작업을 수행할 때,
 
 ---
 
-### 💳 BizCred — Explainable AI Credit Product
+### BizCred — Explainable AI Credit Product
 
 > **Data → AI Score → Explanation → Human Review → Action**
 
@@ -62,7 +62,7 @@ AI Agent가 자산 운용처럼 되돌리기 어려운 작업을 수행할 때,
 
 ---
 
-### ♿ 요지(要旨) — Accessible Information Product
+### 요지(要旨) — Accessible Information Product
 
 > **STT → LLM Extraction → Validation → Human Review → Accessible UI**
 
@@ -81,7 +81,7 @@ AI Agent가 자산 운용처럼 되돌리기 어려운 작업을 수행할 때,
 
 ---
 
-## 🧩 How I Build AI Products
+## How I Build AI Products
 
 제가 여러 프로젝트에서 반복적으로 다뤄온 구조는 비슷합니다.
 
@@ -114,7 +114,7 @@ AI가 답을 생성하는 것에서 끝나는 것이 아니라,
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Languages
 `Python` `TypeScript` `JavaScript`
@@ -138,21 +138,21 @@ AI가 답을 생성하는 것에서 끝나는 것이 아니라,
 
 ---
 
-## 🧪 Other Projects
+## Other Projects
 
-### 📅 Fore
+### Fore
 음성 명령을 일정 액션으로 변환하고,  
 고정 일정 변화에 따라 준비·이동·여유 시간을 다시 계산하는 일정 프로토타입.
 
 `React` `TypeScript` `Web Speech API` `Rule-based NLU`
 
-### ⚖️ Anchor
+### Anchor
 비정형 서비스 가격을 비교하고,  
 판정 근거·확인 질문·사용자 검증을 결합한 Human-in-the-loop 가격 판단 프로토타입.
 
 `React` `TypeScript` `Human-in-the-loop UX`
 
-### 🧾 DigiWill
+### DigiWill
 금융자산 연동부터 디지털 유언, 법적 리스크 검증,  
 사망 확인, 수혜자 전달, 상속 절차 안내까지 연결한 디지털 상속 서비스 설계 프로젝트.
 
@@ -160,7 +160,7 @@ AI가 답을 생성하는 것에서 끝나는 것이 아니라,
 
 ---
 
-## 🎯 Areas of Interest
+## Areas of Interest
 
 - AI Product Engineering
 - AX / Workflow Automation
