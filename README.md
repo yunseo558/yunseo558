@@ -20,7 +20,7 @@
 
 `Python` `Gmail` `Google Calendar` `Google Workspace CLI`
 
-[Repository](https://github.com/DAP-MJU/dap-comp)
+[Repository](https://github.com/DAP-Operations/dap-comp)
 
 ---
 
